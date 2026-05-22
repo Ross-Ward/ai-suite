@@ -1,3 +1,5 @@
+![AI-Suite](./public/banner.svg)
+
 # 🧠 AI Education & Career Suite
 
 A professional, enterprise-grade dashboard that aggregates 30+ specialized AI agents and tools for educational institutions, recruitment platforms, and academic research.
